@@ -1,0 +1,1 @@
+This is a Flask-based TO-DO application. It is based on the tutorial found at http://www.realpython.com/
